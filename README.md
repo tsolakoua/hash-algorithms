@@ -1,4 +1,4 @@
-# Hashing algorithms
+# Hash Functions
 
 - Validating a user input
 
